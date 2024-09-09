@@ -1,5 +1,5 @@
 import React from 'react'
-import Page from '@/components/Table'
+import Page from '@/components/Table1'
 
 
 const FormPage = () => {
